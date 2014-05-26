@@ -1,4 +1,4 @@
-asterisk_help
+asterisk_templates
 =============
 
 Templates for asterisk
