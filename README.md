@@ -1,4 +1,4 @@
 asterisk_templates
 =============
 
-Templates for asterisk
+Templates for asterisk 1.8
