@@ -1,6 +1,8 @@
 asterisk_templates
 =============
 
+Be aware! Think about the safety!
+
 Templates for asterisk 1.8
 
 asterisk watchdog - start asterisk if it fails
