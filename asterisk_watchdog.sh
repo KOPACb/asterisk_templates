@@ -1,6 +1,6 @@
 #!/bin/bash
 #asterisk watchdog
-#/usr/local/bin/asterisk-watchdog.sh
+#place to /usr/local/bin/asterisk-watchdog.sh ( or whatever you can imagine )
 #do not forget set chmod +x
 #crontab line:
 # * * * * * /usr/local/bin/asterisk-watchdog.sh
